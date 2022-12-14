@@ -23,7 +23,7 @@
         1. NetworkX's Bron and Kerbosch based algorithm for finding max clique. (find_clique)
         2. NetworkX's Approximations Algorithm. (max_clique)
         
-   ![image](https://user-images.githubusercontent.com/71274563/207474111-1f4c3d4b-3290-4c9a-beed-37c016f22b97.png)
+![image](https://user-images.githubusercontent.com/71274563/207474601-965273be-8cd4-4fc5-a509-c7a2b42bca10.png)
 
     
    [find_clique](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.clique.find_cliques)
